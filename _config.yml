@@ -4,7 +4,8 @@ header-img: img/home-bg.jpg
 email: xuzhou40@gmail.com
 description: "Hello World"
 baseurl: "/hellosilence"
-url: "http://samuel40.github.io/hellosilence/"
+#url: "http://samuel40.github.io/hellosilence/"
+url: "http://enjoycode.me"
 twitter_username: samuel40
 github_username:  samuel40
 facebook_username:  samuel40
