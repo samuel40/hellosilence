@@ -3,8 +3,7 @@ title: Samuel's Blog
 header-img: img/home-bg.jpg
 email: xuzhou40@gmail.com
 description: "Hello World"
-#baseurl: "/hellosilence"
-baseurl: "/"
+baseurl: "/hellosilence"
 url: "http://samuel40.github.io/hellosilence/"
 twitter_username: samuel40
 github_username:  samuel40
