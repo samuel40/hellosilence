@@ -1,0 +1,18 @@
+# Site settings
+title: Samuel's Blog
+header-img: img/home-bg.jpg
+email: xuzhou40@gmail.com
+description: "Hello World"
+baseurl: "/hellosilence"
+url: "http://samuel40.github.io/hellosilence/"
+twitter_username: SBootstrap
+github_username:  samuel40
+facebook_username:  IronSummitMedia
+
+# Build settings
+# markdown: kramdown
+markdown: redcarpet
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
